@@ -1,0 +1,32 @@
+Dr. Chaz is hosting a programming contest wrap up dinner. 
+Dr. Chaz has severe OCD and is very strict on rules during dinner, specifically, he needs to be sure that 
+everyone take exactly 1 piece of chicken at his buffet, even if that will result in an enormous amount of leftovers. 
+This is why every year before the dinner, Dr. Chaz would give a powerful speech: “Everyone, one chicken per person!”
+
+However, Dr. Chaz does not always have an idea how many pieces of chicken he needs, he believes 
+if there are 𝑁 people at the buffet and everyone takes exactly 1 piece of chicken, providing 𝑀 pieces of chicken will be perfect, 
+i.e., is enough and will have no leftovers. Help Dr. Chaz find out whether his decision is good or not!
+
+Input
+The first line contain integers 0≤𝑁≤1000, 0≤𝑀≤1000, 𝑁≠𝑀 , the number of people at the buffet 
+and the number of pieces of chicken Dr. Chaz is providing.
+
+Output
+Output a single line of the form “Dr. Chaz will have 𝑃 piece[s] of chicken left over!”, 
+if Dr. Chaz has enough chicken and 𝑃 pieces of chicken will be left over, or “Dr. Chaz needs 𝑄 more piece[s] of chicken!” 
+if Dr. Chaz does not have enough pieces of chicken and needs 𝑄 more.
+
+Sample Input 1	
+20 100
+Sample Output 1
+Dr. Chaz will have 80 pieces of chicken left over!
+
+Sample Input 2	
+2 3
+Sample Output 2
+Dr. Chaz will have 1 piece of chicken left over!
+
+Sample Input 3	
+10 1
+Sample Output 3
+Dr. Chaz needs 9 more pieces of chicken!
