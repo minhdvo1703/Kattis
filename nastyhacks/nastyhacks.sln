@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "nastyhacks", "nastyhacks.pyproj", "{24C5933B-F5F0-4A17-A611-DFC00F0456D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24C5933B-F5F0-4A17-A611-DFC00F0456D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24C5933B-F5F0-4A17-A611-DFC00F0456D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14699D5D-9761-4C9A-B1BE-9DF36D6D090B}
+	EndGlobalSection
+EndGlobal
